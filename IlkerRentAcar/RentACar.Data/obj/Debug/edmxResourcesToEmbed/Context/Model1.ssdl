@@ -1,0 +1,226 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="RentACarModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="Arac">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Plaka" Type="nchar" MaxLength="10" />
+    <Property Name="Marka" Type="nchar" MaxLength="15" />
+    <Property Name="Model" Type="nchar" MaxLength="15" />
+    <Property Name="Yil" Type="datetime" />
+    <Property Name="Yakit" Type="nchar" MaxLength="10" />
+    <Property Name="Vites" Type="nchar" MaxLength="10" />
+    <Property Name="MotorGucu" Type="nchar" MaxLength="10" />
+    <Property Name="SonKm" Type="nchar" MaxLength="15" />
+    <Property Name="KapiSayi" Type="nchar" MaxLength="10" />
+    <Property Name="KasaTipi" Type="nchar" MaxLength="15" />
+    <Property Name="Renk" Type="nchar" MaxLength="15" />
+    <Property Name="AirBag" Type="nchar" MaxLength="10" />
+    <Property Name="Koltuk" Type="nchar" MaxLength="10" />
+    <Property Name="Hasar" Type="nchar" MaxLength="10" />
+    <Property Name="Resim" Type="image" />
+  </EntityType>
+  <EntityType Name="Kira">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="CreatedBy" Type="nchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Musteri">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Adi" Type="nchar" MaxLength="50" />
+    <Property Name="Soyad" Type="nchar" MaxLength="50" />
+    <Property Name="Tc" Type="nchar" MaxLength="11" />
+    <Property Name="DogumTarihi" Type="datetime" />
+    <Property Name="Cinsiyet" Type="nchar" MaxLength="5" />
+    <Property Name="Meslek" Type="nchar" MaxLength="50" />
+    <Property Name="CepTel" Type="nchar" MaxLength="30" />
+    <Property Name="IsTel" Type="nchar" MaxLength="30" />
+    <Property Name="Email" Type="nchar" MaxLength="100" />
+    <Property Name="Sehir" Type="nchar" MaxLength="20" />
+    <Property Name="Adres" Type="nchar" MaxLength="100" />
+    <Property Name="EhliyetNo" Type="nchar" MaxLength="10" />
+    <Property Name="EhliyetTur" Type="nchar" MaxLength="10" />
+    <Property Name="EhliyetAlisTarih" Type="date" />
+    <Property Name="Notlar" Type="nchar" MaxLength="500" />
+  </EntityType>
+  <EntityType Name="Rezervasyon">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="CreatedBy" Type="nchar" MaxLength="50" />
+    <Property Name="UpdateDate" Type="datetime" />
+    <Property Name="UpdateBy" Type="nchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Satis">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="MusteriId" Type="int" />
+    <Property Name="AracId" Type="int" />
+    <Property Name="RezervasyonId" Type="int" />
+    <Property Name="KiraId" Type="int" />
+    <Property Name="UserId" Type="int" />
+    <Property Name="UpdateBy" Type="nchar" MaxLength="50" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="CreatedBy" Type="nchar" MaxLength="50" />
+    <Property Name="UpdateDate" Type="datetime" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <EntityType Name="User">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="UsertypeId" Type="int" />
+    <Property Name="AdSoyad" Type="nchar" MaxLength="50" />
+    <Property Name="Parola" Type="nchar" MaxLength="20" />
+    <Property Name="Email" Type="nchar" MaxLength="50" />
+    <Property Name="Adres" Type="nchar" MaxLength="100" />
+    <Property Name="Telefon" Type="nchar" MaxLength="11" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="CreatedBy" Type="nchar" MaxLength="50" />
+    <Property Name="UpdateDate" Type="datetime" />
+    <Property Name="UpdateBy" Type="nchar" MaxLength="50" />
+  </EntityType>
+  <EntityType Name="Usertype">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="Name" Type="nchar" MaxLength="50" />
+    <Property Name="IsActive" Type="bit" />
+    <Property Name="CreatedDate" Type="datetime" />
+    <Property Name="CreatedBy" Type="nchar" MaxLength="50" />
+    <Property Name="UpdateDate" Type="datetime" />
+    <Property Name="UpdateBy" Type="nchar" MaxLength="50" />
+  </EntityType>
+  <Association Name="FK_Satis_Arac">
+    <End Role="Arac" Type="Self.Arac" Multiplicity="0..1" />
+    <End Role="Satis" Type="Self.Satis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Arac">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Satis">
+        <PropertyRef Name="AracId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Satis_Kira">
+    <End Role="Kira" Type="Self.Kira" Multiplicity="0..1" />
+    <End Role="Satis" Type="Self.Satis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Kira">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Satis">
+        <PropertyRef Name="KiraId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Satis_Musteri">
+    <End Role="Musteri" Type="Self.Musteri" Multiplicity="0..1" />
+    <End Role="Satis" Type="Self.Satis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Musteri">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Satis">
+        <PropertyRef Name="MusteriId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Satis_Rezervasyon">
+    <End Role="Rezervasyon" Type="Self.Rezervasyon" Multiplicity="0..1" />
+    <End Role="Satis" Type="Self.Satis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Rezervasyon">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Satis">
+        <PropertyRef Name="RezervasyonId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_Satis_User">
+    <End Role="User" Type="Self.User" Multiplicity="0..1" />
+    <End Role="Satis" Type="Self.Satis" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="User">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="Satis">
+        <PropertyRef Name="UserId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_User_Usertype">
+    <End Role="Usertype" Type="Self.Usertype" Multiplicity="0..1" />
+    <End Role="User" Type="Self.User" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Usertype">
+        <PropertyRef Name="Id" />
+      </Principal>
+      <Dependent Role="User">
+        <PropertyRef Name="UsertypeId" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="RentACarModelStoreContainer">
+    <EntitySet Name="Arac" EntityType="Self.Arac" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Kira" EntityType="Self.Kira" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Musteri" EntityType="Self.Musteri" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Rezervasyon" EntityType="Self.Rezervasyon" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Satis" EntityType="Self.Satis" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="User" EntityType="Self.User" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="Usertype" EntityType="Self.Usertype" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_Satis_Arac" Association="Self.FK_Satis_Arac">
+      <End Role="Arac" EntitySet="Arac" />
+      <End Role="Satis" EntitySet="Satis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Satis_Kira" Association="Self.FK_Satis_Kira">
+      <End Role="Kira" EntitySet="Kira" />
+      <End Role="Satis" EntitySet="Satis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Satis_Musteri" Association="Self.FK_Satis_Musteri">
+      <End Role="Musteri" EntitySet="Musteri" />
+      <End Role="Satis" EntitySet="Satis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Satis_Rezervasyon" Association="Self.FK_Satis_Rezervasyon">
+      <End Role="Rezervasyon" EntitySet="Rezervasyon" />
+      <End Role="Satis" EntitySet="Satis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_Satis_User" Association="Self.FK_Satis_User">
+      <End Role="User" EntitySet="User" />
+      <End Role="Satis" EntitySet="Satis" />
+    </AssociationSet>
+    <AssociationSet Name="FK_User_Usertype" Association="Self.FK_User_Usertype">
+      <End Role="Usertype" EntitySet="Usertype" />
+      <End Role="User" EntitySet="User" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

@@ -1,0 +1,11 @@
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Common\bin\Debug\RentACar.Common.dll
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Common\bin\Debug\RentACar.Common.pdb
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Common\obj\Debug\RentACar.Common.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Common\obj\Debug\RentACar.Common.dll
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Common\obj\Debug\RentACar.Common.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Common\bin\Debug\RentACar.Common.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Common\bin\Debug\RentACar.Common.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Common\obj\Debug\RentACar.Common.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Common\obj\Debug\RentACar.Common.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Common\obj\Debug\RentACar.Common.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Common\obj\Debug\RentACar.Common.pdb

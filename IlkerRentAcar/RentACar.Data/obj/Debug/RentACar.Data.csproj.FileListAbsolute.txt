@@ -1,0 +1,23 @@
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Data\bin\Debug\RentACar.Data.exe.config
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Data\bin\Debug\RentACar.Data.exe
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Data\bin\Debug\RentACar.Data.pdb
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Data\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Data\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Data\obj\Debug\RentACar.Data.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Data\obj\Debug\RentACar.Data.csproj.CopyComplete
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Data\obj\Debug\RentACar.Data.exe
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Data\obj\Debug\RentACar.Data.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Data\bin\Debug\RentACar.Data.exe.config
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Data\bin\Debug\RentACar.Data.exe
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Data\bin\Debug\RentACar.Data.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Data\bin\Debug\EntityFramework.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Data\bin\Debug\EntityFramework.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Data\obj\Debug\RentACar.Data.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Data\obj\Debug\RentACar.Data.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Data\obj\Debug\RentACar.Data.csproj.CopyComplete
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Data\obj\Debug\RentACar.Data.exe
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Data\obj\Debug\RentACar.Data.pdb

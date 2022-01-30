@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar\RentACar.Data\bin\Debug\RentACar.Data.dll.config
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar\RentACar.Data\bin\Debug\RentACar.Data.dll
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar\RentACar.Data\bin\Debug\RentACar.Data.pdb
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar\RentACar.Data\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar\RentACar.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar\RentACar.Data\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar\RentACar.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar\RentACar.Data\obj\Debug\RentACar.Data.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar\RentACar.Data\obj\Debug\RentACar.Data.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar\RentACar.Data\obj\Debug\RentACar.Data.csproj.CopyComplete
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar\RentACar.Data\obj\Debug\RentACar.Data.dll
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar\RentACar.Data\obj\Debug\RentACar.Data.pdb

@@ -1,0 +1,12 @@
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Dto\bin\Debug\RentACar.Dto.dll
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Dto\bin\Debug\RentACar.Dto.pdb
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Dto\obj\Debug\RentACar.Dto.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Dto\obj\Debug\RentACar.Dto.dll
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Dto\obj\Debug\RentACar.Dto.pdb
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\RentACar.Dto\obj\Debug\RentACar.Dto.csprojAssemblyReference.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Dto\bin\Debug\RentACar.Dto.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Dto\bin\Debug\RentACar.Dto.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Dto\obj\Debug\RentACar.Dto.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Dto\obj\Debug\RentACar.Dto.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Dto\obj\Debug\RentACar.Dto.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\RentACar.Dto\obj\Debug\RentACar.Dto.pdb

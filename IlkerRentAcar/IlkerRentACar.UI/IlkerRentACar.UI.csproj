@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{9CFDF0FB-3EA4-4012-A761-9E57FB00BDF6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>IlkerRentACar.UI</RootNamespace>
+    <AssemblyName>IlkerRentACar.UI</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AracEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AracEkle.Designer.cs">
+      <DependentUpon>AracEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AracKirala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AracKirala.Designer.cs">
+      <DependentUpon>AracKirala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AracListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AracListesi.Designer.cs">
+      <DependentUpon>AracListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseAddEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseAddEdit.Designer.cs">
+      <DependentUpon>BaseAddEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseDateForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseDateForm.Designer.cs">
+      <DependentUpon>BaseDateForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseList.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseList.Designer.cs">
+      <DependentUpon>BaseList.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BaseReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BaseReport.Designer.cs">
+      <DependentUpon>BaseReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Cache\CacheManager.cs" />
+    <Compile Include="CalısanEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CalısanEkle.Designer.cs">
+      <DependentUpon>CalısanEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="KiraRaporlari.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="KiraRaporlari.Designer.cs">
+      <DependentUpon>KiraRaporlari.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Login.Designer.cs">
+      <DependentUpon>Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MdiForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MdiForm.Designer.cs">
+      <DependentUpon>MdiForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriEkle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriEkle.Designer.cs">
+      <DependentUpon>MusteriEkle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MusteriListesi.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MusteriListesi.Designer.cs">
+      <DependentUpon>MusteriListesi.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Rezervasyon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rezervasyon.Designer.cs">
+      <DependentUpon>Rezervasyon.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RezervasyonRaporları.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RezervasyonRaporları.Designer.cs">
+      <DependentUpon>RezervasyonRaporları.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AracEkle.resx">
+      <DependentUpon>AracEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AracKirala.resx">
+      <DependentUpon>AracKirala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AracListesi.resx">
+      <DependentUpon>AracListesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseAddEdit.resx">
+      <DependentUpon>BaseAddEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseDateForm.resx">
+      <DependentUpon>BaseDateForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseList.resx">
+      <DependentUpon>BaseList.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BaseReport.resx">
+      <DependentUpon>BaseReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CalısanEkle.resx">
+      <DependentUpon>CalısanEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="KiraRaporlari.resx">
+      <DependentUpon>KiraRaporlari.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Login.resx">
+      <DependentUpon>Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MdiForm.resx">
+      <DependentUpon>MdiForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriEkle.resx">
+      <DependentUpon>MusteriEkle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MusteriListesi.resx">
+      <DependentUpon>MusteriListesi.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rezervasyon.resx">
+      <DependentUpon>Rezervasyon.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RezervasyonRaporları.resx">
+      <DependentUpon>RezervasyonRaporları.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\DataSources\RentACar.Data.Arac.datasource" />
+    <None Include="Properties\DataSources\RentACar.Dto.Dto.AracDto.datasource" />
+    <None Include="Properties\DataSources\RentACar.Dto.Dto.SatisDto.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginPage.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel-1294426_1280.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rentAcar.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AracIslemleri1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rezervasyon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Rapor.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ayarlar.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AracEkle.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AracListesi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AracKirala.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MusteriEkle.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Fix3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\print.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MusteriIslemleri.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MusteriListesi.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{508349B6-6B84-4DF5-91F0-309BEEBAD82D}" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\RentACar.Common\RentACar.Common.csproj">
+      <Project>{9c61c226-52f9-43b0-943f-14badcd08be9}</Project>
+      <Name>RentACar.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RentACar.Dto\RentACar.Dto.csproj">
+      <Project>{4bc95430-fa4c-45c1-a61c-a2ac66e98073}</Project>
+      <Name>RentACar.Dto</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RentACar.Services\RentACar.Services.csproj">
+      <Project>{2842e271-448e-4477-808f-a219a777b4e1}</Project>
+      <Name>RentACar.Services</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

@@ -1,0 +1,115 @@
+C:\Users\ilker\OneDrive\Masaüstü\Projeler\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.csprojAssemblyReference.cache
+C:\Users\ilker\OneDrive\Masaüstü\Projeler\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.csproj.GenerateResource.cache
+C:\Users\ilker\OneDrive\Masaüstü\Projeler\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\IlkerRentACar.UI.exe.config
+C:\Users\ilker\OneDrive\Masaüstü\Projeler\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\IlkerRentACar.UI.exe
+C:\Users\ilker\OneDrive\Masaüstü\Projeler\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\IlkerRentACar.UI.pdb
+C:\Users\ilker\OneDrive\Masaüstü\Projeler\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.Properties.Resources.resources
+C:\Users\ilker\OneDrive\Masaüstü\Projeler\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.csproj.CoreCompileInputs.cache
+C:\Users\ilker\OneDrive\Masaüstü\Projeler\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.exe
+C:\Users\ilker\OneDrive\Masaüstü\Projeler\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.pdb
+C:\Users\ilker\OneDrive\Masaüstü\Projeler\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.MdiForm.resources
+C:\Users\ilker\OneDrive\Masaüstü\Projeler\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.MusteriEkle.resources
+C:\Users\ilker\OneDrive\Masaüstü\Projeler\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.Login.resources
+C:\Users\ilker\OneDrive\Masaüstü\Projeler\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.MusteriListesi.resources
+C:\Users\ilker\OneDrive\Masaüstü\Projeler\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.AracEkle.resources
+C:\Users\ilker\OneDrive\Masaüstü\Projeler\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.AracKirala.resources
+C:\Users\ilker\OneDrive\Masaüstü\Projeler\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.AracListesi.resources
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\IlkerRentACar.UI.exe.config
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\IlkerRentACar.UI.exe
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\IlkerRentACar.UI.pdb
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\EntityFramework.dll
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\EntityFramework.xml
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.AracEkle.resources
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.AracKirala.resources
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.AracListesi.resources
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.Login.resources
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.MdiForm.resources
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.MusteriEkle.resources
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.MusteriListesi.resources
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.Properties.Resources.resources
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.csproj.GenerateResource.cache
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.csproj.CoreCompileInputs.cache
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.csproj.CopyComplete
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.exe
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.pdb
+C:\Users\ilker\OneDrive\Masaüstü\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\IlkerRentACar.UI.exe.config
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\IlkerRentACar.UI.exe
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\IlkerRentACar.UI.pdb
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\EntityFramework.dll
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Common.dll
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Dto.dll
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Services.dll
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Data.exe
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Common.pdb
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Dto.pdb
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Services.pdb
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Services.dll.config
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\EntityFramework.xml
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Data.pdb
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Data.exe.config
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.csprojAssemblyReference.cache
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.AracEkle.resources
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.AracKirala.resources
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.AracListesi.resources
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.BaseAddEdit.resources
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.BaseDateForm.resources
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.BaseList.resources
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.BaseReport.resources
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.KiraRaporlari.resources
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.Login.resources
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.MdiForm.resources
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.MusteriEkle.resources
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.MusteriListesi.resources
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.Properties.Resources.resources
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.Rezervasyon.resources
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.csproj.GenerateResource.cache
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.csproj.CopyComplete
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.exe
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.pdb
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.RezervasyonRaporları.resources
+C:\Users\DELL\Desktop\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.CalısanEkle.resources
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\IlkerRentACar.UI.exe.config
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\IlkerRentACar.UI.exe
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\IlkerRentACar.UI.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\EntityFramework.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Common.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Dto.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Services.dll
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Data.exe
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Common.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Dto.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Services.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Services.dll.config
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\EntityFramework.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Data.pdb
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\bin\Debug\RentACar.Data.exe.config
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.csproj.AssemblyReference.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.AracEkle.resources
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.AracKirala.resources
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.AracListesi.resources
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.BaseAddEdit.resources
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.BaseDateForm.resources
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.BaseList.resources
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.BaseReport.resources
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.CalısanEkle.resources
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.KiraRaporlari.resources
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.Login.resources
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.MdiForm.resources
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.MusteriEkle.resources
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.MusteriListesi.resources
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.Properties.Resources.resources
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.Rezervasyon.resources
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.RezervasyonRaporları.resources
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.csproj.GenerateResource.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.csproj.CoreCompileInputs.cache
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.csproj.CopyComplete
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.exe
+C:\Users\ilker\Desktop\C# döküman-Proje\İlkerRentACar\IlkerRentAcar\IlkerRentACar.UI\obj\Debug\IlkerRentACar.UI.pdb
